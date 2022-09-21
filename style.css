@@ -18,10 +18,7 @@ h3{
 }
 p{
     color:#000000;
-    border-style: outset;
-    border-color: #90B6DA;
-    border-width: 5px;
-    border-radius: 17px;
+
 }
 .p1{
     font-weight: bold;
@@ -29,5 +26,11 @@ p{
 a{
     color:#8A2BE2;
     text-decoration: none;
+}
+article{
+    border-style: outset;
+    border-color: #90B6DA;
+    border-width: 5px;
+    border-radius: 17px;
 }
 
